@@ -30,7 +30,7 @@ _Note_: This exercise uses content from the `Previewing Web Content` and `Charac
 
 Using your IDE, open the `exercise02.html` file from the  `ictgradschool/web/html/ex02` folder. Preview this file using your IDE. The web page has purposely been written to be self-documenting, so the page displayed details what the problems are in the HTML syntax used to produce the page.  Read through the displayed page, then return to your IDE and read through the HTML in the document.
 
-Visit the [w3c HTML validator]https://validator.w3.org/nu/) and click on `Validate by File Upload`. Upload the `exercise02.html` file to check if it validates. It shouldn't. Scroll down, and read the report that is generated, detailing the problem.  You will see details reported about a lack of a character encoding, difficulty determining which parsing module to use (due to it not being able to tell which version of HTML is being used), and errors concerning how some of the tags have been written.
+Visit the [w3c HTML validator](https://validator.w3.org/nu/) and click on `Validate by File Upload`. Upload the `exercise02.html` file to check if it validates. It shouldn't. Scroll down, and read the report that is generated, detailing the problem.  You will see details reported about a lack of a character encoding, difficulty determining which parsing module to use (due to it not being able to tell which version of HTML is being used), and errors concerning how some of the tags have been written.
 
 
 
